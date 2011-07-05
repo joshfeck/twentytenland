@@ -1,0 +1,1 @@
+This is a very basic child theme for twentyten. It does one thing: it gives you the ability to create a very stripped down page in WordPress that would be suitable for a landing page. 
